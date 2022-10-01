@@ -20,8 +20,8 @@
  &kp LSHIFT              &kp Z             &kp X             &kp C               &kp V      &kp B                                 &kp N      &kp M                 &kp COMMA                    &kp DOT             &kp FSLH                &kp RSHFT
              &kp LCTRL          &kp LALT          &kp LBKT          &kp RBKT                                                                        &kp LESS_THAN             &kp GREATER_THAN           &kp MINUS            &kp PLUS
                                                                               &kp LGUI  &kp SPACE                             &kp ENTER  &kp RCTRL
-                                                                                            &mo 1  &kp BACKSPACE  &kp DELETE      &mo 2
-                                                                                         &kp HOME      &kp GRAVE       &mo 3    &kp END
+                                                                                            &mo 1  &kp BACKSPACE  &kp DELETE      &mo 3
+                                                                                         &kp HOME      &kp GRAVE       &mo 2    &kp END
             >;
         };
 
@@ -30,7 +30,7 @@
  &kp F12          &kp F1          &kp F2          &kp F3          &kp F4  &kp F5                  &kp F6    &kp F7            &kp F8          &kp F9            &kp F10                &kp F11
   &trans          &trans          &trans          &trans          &trans  &trans                  &trans    &trans            &trans          &trans             &trans            &kp PAGE_UP
   &trans          &trans          &trans          &trans          &trans  &trans                  &trans  &kp LEFT          &kp DOWN          &kp UP          &kp RIGHT          &kp PAGE_DOWN
-  &trans          &trans          &trans          &trans          &trans  &trans                  &trans    &trans            &trans          &trans             &trans                 &trans
+  &trans          &trans          &trans             &kp          &trans  &trans                  &trans    &trans            &trans          &trans             &trans                 &trans
           &trans          &trans          &trans          &trans                                                    &trans            &trans          &trans              &mo 3
                                                                   &trans  &trans                  &trans    &trans
                                                                           &trans  &trans  &trans  &trans
